@@ -22,10 +22,10 @@ void search_product()
     printf("Input the ID to search:");
     gets(search_id);
 
-    printf("No|ID|Name|Category|Description|Company|Year\n");
+    printf("No|ID|Name|Category|Description|Company|Year|Price\n");
     while(1==(fread(&pro, sizeof (struct Product),1,fptr))){
         if(strcmp(search_id,pro.id)==0){
-            printf("%d|%s|%s|%s|%s|%s|%d\n",i,pro.id,pro.name,pro.category,pro.decription,pro.company,pro.year);
+            printf("%d|%s|%s|%s|%s|%s|%d|%.2f\n",i,pro.id,pro.name,pro.category,pro.decription,pro.company,pro.year,pro.price);
         }
     }
 }

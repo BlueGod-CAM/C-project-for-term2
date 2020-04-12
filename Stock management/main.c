@@ -18,6 +18,8 @@ void search_product();
 void search_instock();
 void update_instock();
 void update_product();
+void system_management();
+void sale();
 
 void create()
 {
@@ -156,53 +158,40 @@ int main()
 {
     int opt;
     interface();
-    getch();
+    getchar();
     system("cls");
     login();
     printf("==============Stock Management===============\n");
     do{
         system("cls");
-        printf("=====Menu=====\n");
-        printf(">>>1.Create\n");
-        printf(">>>2.Read\n");
-        printf(">>>3.Update\n");
-        printf(">>>4.Delete\n");
-        printf(">>>5.Search\n");
-        printf(">>>6.Exit\n");
-        printf("Choose one(1-6):");
-        scanf("%d",&opt);
-        switch(opt)
-        {
+        printf("==============System===============\n");
+		printf("||         1.Stock Management    ||\n");
+		printf("||         2.Sale System         ||\n");
+		printf("||         3.Exit                ||\n");
+		printf("===================================\n");
+		printf("Please choose one:");
+		scanf("%d",&opt);
+		switch(opt)
+		{
         case 1:
             {
-                create();
+                system_management();
                 break;
             }
         case 2:
             {
-                read();
+                sale();
                 break;
             }
         case 3:
             {
-                update();
-                break;
-            }
-        case 4:
-            {
-                delete_file();
-                break;
-            }
-        case 5:
-            {
-                search_file();
-                break;
-            }
-        case 6:
-            {
                 exit(1);
             }
-        }
+        default:
+            {
+                printf("You input the invalid number.");
+            }
+		}
         printf("Press enter to continues........\n");
     }
     while(getch()==13);

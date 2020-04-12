@@ -56,6 +56,9 @@
 		<Unit filename="Search_pro.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Stock_management_system.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="UpdateInstock.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -66,6 +69,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="productinfo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sale_system.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

@@ -40,7 +40,7 @@ void delete_pro()
     fclose(fptr);
     fclose(tem);
 
-    remove(fnp);
-    rename("Temporary.bin",fnp);
+    remove("Product.bin");
+    rename("Temporary.bin","Product.bin");
 
 }

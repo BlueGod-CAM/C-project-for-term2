@@ -29,6 +29,8 @@ void update_instock()
             gets(pro.id);
             printf("Amount of product=");
             scanf("%d",&pro.aop);
+            printf("Price=");
+            scanf("%f",&pro.price);
             fwrite(&pro,sizeof (struct stock),1,tem);
         }
         else{
@@ -39,6 +41,6 @@ void update_instock()
     fclose(fptr);
     fclose(tem);
 
-    remove(fnp);
-    rename("Temporary.bin",fnp);
+    remove("Stock.bin");
+    rename("Temporary.bin","Stock.bin");
 }

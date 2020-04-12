@@ -34,6 +34,6 @@ void delete_stock()
     fclose(fptr);
     fclose(tem);
 
-    remove(fnp);
-    rename("Temporary.bin",fnp);
+    remove("Stock.bin");
+    rename("Temporary.bin","Stock.bin");
 }

@@ -26,6 +26,8 @@ void instock()
         gets(pro.id);
         printf("Amount of product in stock:");
         scanf("%d",&pro.aop);
+        printf("Price=");
+        scanf("%f",&pro.price);
         fwrite(&pro, sizeof (struct stock),1,fptr);
     }
     fclose(fptr);

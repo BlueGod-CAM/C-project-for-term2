@@ -42,6 +42,8 @@ void update_product()
             gets(pro.company);
             printf("Year=");
             scanf("%d",&pro.year);
+            printf("Price=");
+            scanf("%f",&pro.price);
             fwrite(&pro,sizeof (struct Product),1,tem);
         }
         else{
@@ -52,7 +54,7 @@ void update_product()
     fclose(fptr);
     fclose(tem);
 
-    remove(fnp);
-    rename("Temporary.bin",fnp);
+    remove("Product.bin");
+    rename("Temporary.bin","Product.bin");
 
 }

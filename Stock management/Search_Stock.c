@@ -31,10 +31,10 @@ void search_instock()
         }
     }
 
-    printf("No|ID|Name|Category|Description|Company|Year\n");
+    printf("No|ID|Name|Category|Description|Company|Year|Price\n");
     while(1==(fread(&pro, sizeof(struct Product),1,fptr)&&fread(&prod, sizeof (struct stock),1,tem))){
         if(strcmp(pro.id,prod.id)==0){
-            printf("%d|%s|%s|%s|%s|%s|%d\%d\n",i,pro.id,pro.name,pro.category,pro.decription,pro.company,pro.year,prod.aop);
+            printf("%d|%s|%s|%s|%s|%s|%d\%d|%.2f\n",i,pro.id,pro.name,pro.category,pro.decription,pro.company,pro.year,prod.aop,prod.price);
         }
     }
 

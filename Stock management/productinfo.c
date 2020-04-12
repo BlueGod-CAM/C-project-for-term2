@@ -39,6 +39,8 @@ void productinfo()
         gets(pro.company);
         printf("Year=");
         scanf("%d",&pro.year);
+        printf("Price=");
+        scanf("%f",&pro.price);
         fwrite(&pro,sizeof (struct Product),1,fptr);
     }
     fclose(fptr);

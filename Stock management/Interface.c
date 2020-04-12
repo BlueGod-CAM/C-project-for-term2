@@ -27,7 +27,7 @@ void login()
             scanf("%s",&name);
             printf("Please put your password:");
             scanf("%s",&pw);
-            i=((strcmp(name,"Sophanon"))&&(strcmp(pw,"Sophanon123")));
+            i=(strcmp(name,"Sophanon"))+(strcmp(pw,"Sophanon123"));
             if(i==0){
                 printf("Successful");
                 break;

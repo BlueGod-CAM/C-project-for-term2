@@ -17,11 +17,13 @@ struct Product
     char category[100];
     char company[100];
     int year;
+    float price;
 };
 struct stock
 {
     char id[50];
     int aop; //amount of product
+    float price;
 };
 
 void update_product();
@@ -35,5 +37,6 @@ void interface();
 void instock();
 void delete_stock();
 void delete_pro();
-
+void system_management();
+void sale();
 #endif
