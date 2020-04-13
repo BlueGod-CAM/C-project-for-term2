@@ -282,7 +282,7 @@
 	<time.h>
 	<string.h>
 
-1586716243 c:\users\dragon\documents\github\c-project-for-term2\stock management\function.h
+1586795909 c:\users\dragon\documents\github\c-project-for-term2\stock management\function.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
@@ -302,14 +302,14 @@
 	<time.h>
 	<string.h>
 
-1586566856 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\interface.c
+1586717943 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\interface.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
 
-1586716243 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\main.c
+1586797112 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
@@ -365,7 +365,7 @@
 	<time.h>
 	<string.h>
 
-1586713189 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\stock_management_system.c
+1586796990 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\stock_management_system.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
@@ -373,6 +373,13 @@
 	<string.h>
 
 1586717824 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\sale_system.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1586796561 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\sorting.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>

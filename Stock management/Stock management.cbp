@@ -56,6 +56,9 @@
 		<Unit filename="Search_pro.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Sorting.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Stock_management_system.c">
 			<Option compilerVar="CC" />
 		</Unit>

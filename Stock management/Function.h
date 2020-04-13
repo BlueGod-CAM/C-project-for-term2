@@ -39,4 +39,5 @@ void delete_stock();
 void delete_pro();
 void system_management();
 void sale();
+void sorting();
 #endif
