@@ -3,6 +3,7 @@
 #include <time.h>
 #include <string.h>
 #include "Function.h"
+#include <conio.h>
 
 //C:\Users\DRAGON\Documents\GitHub\C-project-for-term2\Stock management\Stock management\main.c
 

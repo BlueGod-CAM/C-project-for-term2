@@ -275,12 +275,13 @@
 	<time.h>
 	<string.h>
 
-1586714741 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\delete_pro.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\delete_pro.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
 1586795909 c:\users\dragon\documents\github\c-project-for-term2\stock management\function.h
 	<stdio.h>
@@ -288,101 +289,115 @@
 	<time.h>
 	<string.h>
 
-1586714741 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\delete_stock.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\delete_stock.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586716593 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\instock.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\instock.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586717943 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\interface.c
+1587110407 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\interface.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586797112 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\main.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
 	"Function.h"
+	<conio.h>
 
-1586714741 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\productinfo.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\productinfo.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586711312 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\read_all.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\read_all.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586716243 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\readstock.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\readstock.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586711312 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\search_pro.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\search_pro.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586716243 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\search_stock.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\search_stock.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586716243 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\updateinstock.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\updateinstock.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586714741 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\updateproduct.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\updateproduct.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586796990 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\stock_management_system.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\stock_management_system.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586717824 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\sale_system.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\sale_system.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
-1586796561 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\sorting.c
+1586833045 source:c:\users\dragon\documents\github\c-project-for-term2\stock management\sorting.c
 	"Function.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
+	<conio.h>
 
