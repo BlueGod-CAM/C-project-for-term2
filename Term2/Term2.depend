@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1587748754 source:d:\term2 project\term2\create.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587753151 d:\term2 project\term2\function.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1587750462 source:d:\term2 project\term2\delete.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587752804 source:d:\term2 project\term2\interface.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587748754 source:d:\term2 project\term2\read.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587748754 source:d:\term2 project\term2\search.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587748754 source:d:\term2 project\term2\sorting.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587748754 source:d:\term2 project\term2\update.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587753182 source:d:\term2 project\term2\main.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587749143 source:d:\term2 project\term2\stock.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587752614 source:d:\term2 project\term2\sale.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1587753191 source:d:\term2 project\term2\addproduct.c
+	"Function.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
